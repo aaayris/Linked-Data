@@ -28,11 +28,11 @@
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/43195236> , bibo:locator  "pp: 53, 65, 361, 362."
 ) ,                                                   
                   "ܐܘܪܗܳܝ" , (
-                           cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" # need worldcat URI , bibo:locator "pp: 556" ,
+                           cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" , bibo:locator "pp: 556" , # need worldcat URI 
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/4609198> , bibo:locator "pp: 2:912."
 ) ,                                                   
                   "ܐܘܪܦܰܗ̈" , (
-                           cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" # need worldcat URI , bibo:locator "pp: 556" ,
+                           cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" , bibo:locator "pp: 556" , # need worldcat URI
 ) ,
                   "أَذاسا" , (
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/23909540> , bibo:locator "pp: I:155; III:120."
@@ -72,7 +72,7 @@
                            role:trl ( <http://syriaca.org/person/454> , <https://www.wikidata.org/wiki/Q2088332> ) ;
                            bibo:locator "pp: 556"
 ) ;
-                  dcterms:description "مدينة مشهورة خمسة ايام عن حلب شرقا وتسمى اليوم اورفه" ,   #@ar this one pasted as Arabic, one above didn't for some reason
+                  dcterms:description "مدينة مشهورة خمسة ايام عن حلب شرقا وتسمى اليوم اورفه"@ar , # this one pasted as Arabic, one above didn't for some reason
                            ( cito:citesAsSourceDocument "al-Luʼluʼ al-manthūr fī tārīkh al-ʻulūm wa-al-ādāb al-Suryāniyyah" ;
                            role:aut ( <http://syriaca.org/person/372> , <https://www.wikidata.org/wiki/Q1368502> ) ;
                            bibo:locator "pp: 516" ;
