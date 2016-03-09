@@ -30,11 +30,11 @@
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/43195236> , bibo:locator  "pp: 53, 65, 361, 362."
 ) ,                                                   # Wilmshurst Ecclesiastical Organisation Church of the East
                   "ܐܘܪܗܳܝ" , (
-                           cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" , # need worldcat URI bibo:locator "pp: 556" ,
+                           cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" # need worldcat URI , bibo:locator "pp: 556" ,
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/4609198> , bibo:locator "pp: 2:912."
 ) ,                                                   # Wright Catalogue of Syriac mss
                   "ܐܘܪܦܰܗ̈" , (
-                           cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" , # need worldcat URI  bibo:locator "pp: 556" ,
+                           cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" # need worldcat URI , bibo:locator "pp: 556" ,
 ) ,
                   "أَذاسا" , (
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/23909540> , bibo:locator "pp: I:155; III:120."
