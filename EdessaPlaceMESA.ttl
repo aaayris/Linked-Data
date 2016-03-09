@@ -20,35 +20,32 @@
 
 <http://syriaca.org/place/78> a lawd:Place ;
 
+
          rdfs:label "Edessa"@en (            
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/756837093> , bibo:locator "pp: 1, 4, 5–6 (with fig. 1), 9–10, 13, 15–16, 18, 26, 29, 31, 33–34, 36, 37–38, 41, 46, 54, 56, 60, 64, 69, 71, 74, 84, 86, 90, 97–98, 99, 102, 107–108, 126, 127, 128, 132–133, 138–139 (with fig. 47), 145, 153, 155, 162, 163, 164, 178, 191–192, 195–196, 197, 199, 201–202, 209, 213, 220, 229, 237, 249, 252, 260–261, 262, 266, 267, 268, 270, 271–272, 273, 284, 287, 288, 303–304, 314, 316, 317, 322, 327–328, 332, 335, 343, 346, 348, 350, 351, 352, 356, 361, 363, 367, 376, 377, 384, 390, 392, 398, 401, 403, 407, 410–411, 419, 431, 432, 433, 438–439, 444, 446, 448, maps: Map I B1, II B1, III." ,
-                                                      # Brock Encyclopedic Dictionary Syriac Heritage
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/54405272> , bibo:locator "pp: 553" ,
-                                                      # Barsoum, Scattered Pearls
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/773307076> , bibo:locator "entry:" <http://www.csc.org.il/db/browse.aspx?db=SB&sL=E&sK=Edessa&sT=keywords> ,
-                                                      # Comprehensive Bibliography on Syriac Xianity
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/43195236> , bibo:locator  "pp: 53, 65, 361, 362."
-) ,                                                   # Wilmshurst Ecclesiastical Organisation Church of the East
+) ,                                                   
                   "ܐܘܪܗܳܝ" , (
                            cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" # need worldcat URI , bibo:locator "pp: 556" ,
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/4609198> , bibo:locator "pp: 2:912."
-) ,                                                   # Wright Catalogue of Syriac mss
+) ,                                                   
                   "ܐܘܪܦܰܗ̈" , (
                            cito:citesAsSourceDocument "Berule bdire d-ʿal yulpone suryoye hdire" # need worldcat URI , bibo:locator "pp: 556" ,
 ) ,
                   "أَذاسا" , (
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/23909540> , bibo:locator "pp: I:155; III:120."
-                                                      # al-Hamawi Mu'jam al-budan
 ) ,
                   "الرها"@ar , (
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/21933518> , bibo:locator "pp: 516."
-) ,                                                   # Barsoum al-Lu'lu
+) ,                                                   
                   "الرُّهءا"@ar ,
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/23909540> , bibo:locator "pp: I:155; III:120."
 ) ,
                   "اورفه"@ar ,
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/21933518> , bibo:locator "pp: 516."
-) ,                                                   # Barsoum al-Lu'lu
+) ,                                                   
                   "Adme"@en ,
                            cito:citesAsSourceDocument <http://www.worldcat.org/oclc/756837093> , bibo:locator "pp: 138-139"
 ) ,
@@ -283,5 +280,16 @@
          
           cc:license "Attribution 3.0 unported" ,
           <http://creativecommons.org/licenses/by/3.0/deed.en_US> # this needs editing
+
+
+
+# wordlcat id's
+# 756837093 = Brock Encyclopedic Dictionary Syriac Heritage
+# 54405272 = Barsoum, Scattered Pearls
+# 773307076 = Comprehensive Bibliography on Syriac Xianity 
+# 43195236 = Wilmshurst Ecclesiastical Organisation Church of the East 
+# 4609198 = Wright Catalogue of Syriac mss in BL
+# 23909540 = al-Hamawi Mu'jam al-budan
+# 21933518 = Barsoum al-Lu'lu
 
     
